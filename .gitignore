@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+.venv/
+
+# API keys and environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
