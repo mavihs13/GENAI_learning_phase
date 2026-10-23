@@ -15,7 +15,7 @@ llm = ChatGoogleGenerativeAI(
 
 try:
     response = llm.invoke(
-        "Explain language model in simple words."
+        "Explain prompt template in simple words."
     )
     print(response.text)
 
