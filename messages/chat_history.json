@@ -1,0 +1,6 @@
+[
+  {"role": "human", "content": "I ordered a laptop last week."},
+  {"role": "ai", "content": "I can help you check your refund."},
+  {"role": "human", "content": "The laptop arrived damaged."},
+  {"role": "ai", "content": "Have you requested a return?"}
+]
