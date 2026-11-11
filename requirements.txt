@@ -2,14 +2,7 @@
 langchain
 langchain-core
 
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
+# Google Gemini Integration
 langchain-google-genai
 google-generativeai
 
@@ -17,12 +10,19 @@ google-generativeai
 langchain-huggingface
 transformers
 huggingface-hub
+sentence-transformers
+
+# Groq Integration
+langchain-groq
+
+# Pydantic (Structured Output)
+pydantic
+
+# Streamlit (UI)
+streamlit
 
 # Environment Variable Management
 python-dotenv
-
-# Mistral AI Integration
-langchain-mistralai
 
 # Machine Learning Utilities
 numpy
